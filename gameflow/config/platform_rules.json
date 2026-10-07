@@ -1,0 +1,43 @@
+{
+  "youtube": {
+    "name": "YouTube",
+    "max_title_chars": 100,
+    "ideal_title_chars": 70,
+    "max_description_chars": 5000,
+    "max_hashtags": 15,
+    "recommended_hashtags": 3,
+    "aspect_ratio_landscape": "16:9",
+    "aspect_ratio_shorts": "9:16",
+    "shorts_max_duration_seconds": 60,
+    "gaming_category_id": "20",
+    "hook_rule": "First 3-5 seconds must introduce high-stakes gameplay moment or challenge."
+  },
+  "tiktok": {
+    "name": "TikTok",
+    "max_caption_chars": 4000,
+    "visible_caption_threshold": 150,
+    "max_hashtags": 5,
+    "recommended_hashtags": 4,
+    "aspect_ratio": "9:16",
+    "ideal_duration_seconds": "15-35",
+    "hook_rule": "0-3s visual shock or curiosity hook. Faster pacing, captions burned into center."
+  },
+  "instagram": {
+    "name": "Instagram Reels",
+    "max_caption_chars": 2200,
+    "visible_caption_threshold": 125,
+    "max_hashtags": 5,
+    "recommended_hashtags": 4,
+    "aspect_ratio": "9:16",
+    "ideal_duration_seconds": "15-45",
+    "hook_rule": "Aesthetic high-contrast cover, strong call to action in final 3 seconds."
+  },
+  "x": {
+    "name": "X (Twitter)",
+    "max_chars": 280,
+    "recommended_hashtags": 2,
+    "aspect_ratio": "16:9 or 9:16",
+    "min_video_duration_seconds": 8,
+    "hook_rule": "Claim in first 8 words, specific game title in first 10 words. Write for retweets and DM shares."
+  }
+}

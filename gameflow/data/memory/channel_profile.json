@@ -1,0 +1,20 @@
+{
+  "channel_name": "GamerStudio",
+  "creator_name": "PlayerOne",
+  "game_niche": "Valorant & FPS Games",
+  "target_language": "tr",
+  "tone": "Energetic, Hype, High-Skill & Entertaining",
+  "default_hashtags": [
+    "#gaming",
+    "#gamer",
+    "#gameplay",
+    "#shorts",
+    "#clutch"
+  ],
+  "watermark_text": "@GamerStudio",
+  "preferred_aspect_ratio": "9:16",
+  "bgm_volume": 0.25,
+  "gameplay_volume": 1.0,
+  "auto_publish": false,
+  "created_at": "2026-10-07T14:08:19.198016"
+}

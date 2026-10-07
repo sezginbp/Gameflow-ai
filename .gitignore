@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments & Keys
+.env
+venv/
+env/
+ENV/
+
+# Reference cloned repos
+skills_repo/
+
+# Large media files (keep directories with .gitkeep)
+gameflow/data/inputs/*.mp4
+gameflow/data/inputs/*.mov
+gameflow/data/inputs/*.mkv
+gameflow/data/inputs/*.avi
+gameflow/data/outputs/*
+!gameflow/data/outputs/.gitkeep
+gameflow/data/thumbnails/*
+!gameflow/data/thumbnails/.gitkeep
+gameflow/data/audio/*
+!gameflow/data/audio/.gitkeep
+
+# OS & Editor files
+.DS_Store
+Thumbs.db
+.vscode/
